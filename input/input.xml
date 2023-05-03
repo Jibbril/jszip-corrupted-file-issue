@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:settings xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main">
+<w:zoom w:percent="100"/>
+<w:defaultTabStop w:val="1304"/>
+<w:docVars>
+<w:docVar w:name="ws_C1" w:val="1000278"/>
+<w:docVar w:name="ws_C2" w:val="P220134BE01"/>
+<w:docVar w:name="ws_CorrespondWith" w:val="Client"/>
+<w:docVar w:name="ws_DatabaseName" w:val="INPROMA"/>
+<w:docVar w:name="ws_DocClass" w:val="DOC"/>
+<w:docVar w:name="ws_DocumentType" w:val="CORRESPONDENCE"/>
+<w:docVar w:name="ws_HostName" w:val="SMLMINP01.awapatent.org"/>
+<w:docVar w:name="ws_SaerchType" w:val="1"/>
+<w:docVar w:name="ws_Title" w:val="English Title P220134BE01 2023-03-22"/>
+<w:docVar w:name="title_original" w:val=""/>
+<w:docVar w:name="name_original" w:val="Centre de Recherches Métallurgiques ASBL"/>
+<w:docVar w:name="street_original"/>
+<w:docVar w:name="postCode_original"/>
+<w:docVar w:name="city_original"/>
+<w:docVar w:name="country_original"/>
+<w:docVar w:name="state_original"/>
+<w:docVar w:name="phoneNo_original" w:val=""/>
+<w:docVar w:name="telecomNo_original" w:val="+32 4 254 62 11"/>
+<w:docVar w:name="email_original" w:val="info@crmgroup.be"/>
+<w:docVar w:name="correspondenceLanguage_original" w:val="EN"/>
+<w:docVar w:name="correspondLanguage_original" w:val="EN"/>
+<w:docVar w:name="correspondenceName_original" w:val="Team 1"/>
+<w:docVar w:name="correspondName_original" w:val="Team 1"/>
+<w:docVar w:name="correspondEmail_original"/>
+<w:docVar w:name="correspondtype_original" w:val=""/>
+<w:docVar w:name="title_kopia1" w:val=""/>
+<w:docVar w:name="name_kopia1" w:val="Centre de Recherches Métallurgiques ASBL"/>
+<w:docVar w:name="street_kopia1"/>
+<w:docVar w:name="postCode_kopia1"/>
+<w:docVar w:name="city_kopia1"/>
+<w:docVar w:name="country_kopia1"/>
+<w:docVar w:name="state_kopia1"/>
+<w:docVar w:name="phoneNo_kopia1" w:val=""/>
+<w:docVar w:name="telecomNo_kopia1" w:val="+32 4 254 62 11"/>
+<w:docVar w:name="email_kopia1" w:val="info@crmgroup.be"/>
+<w:docVar w:name="correspondenceLanguage_kopia1" w:val="EN"/>
+<w:docVar w:name="correspondLanguage_kopia1" w:val="EN"/>
+<w:docVar w:name="correspondenceName_kopia1"/>
+<w:docVar w:name="correspondName_kopia1"/>
+<w:docVar w:name="correspondEmail_kopia1" w:val="test@awa.com"/>
+<w:docVar w:name="correspondtype_kopia1" w:val=""/>
+</w:docVars>
+</w:settings>
